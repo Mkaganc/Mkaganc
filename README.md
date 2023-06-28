@@ -1,6 +1,3 @@
-# 💫 About Me:
- I'm currently working on SLAM, Future Price Prediction and AutoML projects 🔬<br>With my team, we are trying to make peoples lives easy by making different website concepts 💵<br>I consider myself not bad at Machine Learning, Webscraping and Data Manipulation topics 📊<br>My long-term plan is gaining better knowledge and experience at Machine Learning 📝
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mkaganc) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Mkaganc#8628) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mkagancuhadar/) 
